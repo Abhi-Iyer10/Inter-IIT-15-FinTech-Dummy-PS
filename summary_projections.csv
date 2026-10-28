@@ -1,0 +1,13 @@
+investor_id,goal_label,target_amount_inr,horizon_months,blended_return_pct,weighted_risk_score,weighted_ter_pct,annual_cost_inr,fv_base_inr,fv_cons_inr,fv_opt_inr,goal_gap_inr,liquidity_status,warnings_count,fallback_used
+INV01,Wedding expenses,1000000.0,24,8.31,2.2,0.64,1920.0,1004339.68,965081.84,1045508.05,-4339.68,Sufficient,0,False
+INV02,Car purchase,800000.0,18,8.25,2.5,0.76,1520.0,798994.48,776907.19,821839.26,1005.52,Sufficient,1,False
+INV03,Home renovation,300000.0,15,5.5,1.0,0.2,300.0,315559.43,306963.85,324423.23,-15559.43,Sufficient,0,True
+INV04,Home down payment,2500000.0,60,9.74,3.1,1.015,5075.0,2349856.24,2121615.19,2607950.0,150143.76,Sufficient,0,False
+INV05,Child school fees,600000.0,48,9.74,3.1,1.015,1015.0,614585.39,570114.48,663382.46,-14585.39,Sufficient,1,False
+INV06,Retirement corpus,15000000.0,240,8.8,2.25,0.42,3358.78,14387849.95,9313636.83,22820995.65,612150.05,Sufficient,0,False
+INV07,Child higher education,12000000.0,144,10.95,3.7,1.157,11575.0,15529806.42,12175348.74,20016697.46,-3529806.42,Sufficient,0,False
+INV08,Start a business,5000000.0,36,8.31,2.2,0.64,1280.0,1070917.26,1013111.68,1132835.94,3929082.74,Sufficient,1,False
+INV09,Second home down payment,3000000.0,72,9.74,3.1,1.015,15225.0,3656496.94,3128602.55,4280381.21,-656496.94,Sufficient,0,False
+INV10,Early retirement fund,5000000.0,96,10.95,3.7,1.157,6945.0,5248080.34,4470413.97,6191933.6,-248080.34,Sufficient,0,False
+INV11,Higher studies fund,400000.0,84,9.74,3.1,1.015,0.0,359191.91,320822.42,403458.79,40808.09,Sufficient,1,False
+INV12,Retirement income reserve,4500000.0,36,8.31,2.2,0.64,25600.0,5128099.51,4689110.69,5606941.51,-628099.51,Sufficient,0,False
