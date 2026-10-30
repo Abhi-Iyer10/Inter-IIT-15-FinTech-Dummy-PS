@@ -14,7 +14,7 @@ class ExplainabilityEngine:
             rationales.append(
                 f"**Strategy Overview**: Recommended portfolio balances an expected return of "
                 f"**{summary['blended_return']*100:.2f}%** with a weighted risk score of **{summary['blended_risk']:.2f}** "
-                f"(strictly within risk tolerance of {risk_tol}.0)."
+                f"(strictly within risk tolerance of {risk_tol}.0 + 0.25)."
             )
 
         active_alloc = alloc_df[alloc_df['weight'] > 0.0001]
